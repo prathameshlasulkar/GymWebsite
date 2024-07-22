@@ -1,2 +1,2 @@
-# GymWebsite
+WEB DEVELOPMENT PROJECT
 
